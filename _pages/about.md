@@ -165,7 +165,7 @@ Advances in Neural Information Processing Systems (NeurIPS) 34, 10092-10104, 202
 **J. Zhang**, S. Guo, Z. Qu, D. Zeng, Y. Zhan, Q. Liu, R. Akerkar   
 IEEE Transactions on Computers (TC) 71 (7), 1655-1667, 2021. (CCF-A)
 
-- **<font color=Purple>[TC]</font>** [Edge Learning: The Enabling Technology for Distributed Big Data Analytics in the Edge
+- **<font color=Purple>[CSUR]</font>** [Edge Learning: The Enabling Technology for Distributed Big Data Analytics in the Edge
 ](https://dl.acm.org/doi/10.1145/3464419)   
 **J. Zhang**, Z. Qu, C. Chen, H. Wang, Y. Zhan, B. Ye, S. Guo    
 ACM Computing Surveys (CSUR) 54 (7), 1-36, 2021. (CCF-B)
