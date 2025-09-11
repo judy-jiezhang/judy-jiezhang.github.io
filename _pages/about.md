@@ -192,7 +192,7 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 - Reviewer for IEEE Transactions on Computers (IEEE TC)
 
 # 🎖 Honors and Awards
-- 2nd Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling).
+- 2nd Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling).    
   Awarded by CSIAM (China Society for Industrial and Applied Mathematics), Jun 2013.
 
 - National Encouragement Scholarship.
