@@ -192,16 +192,16 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 - Reviewer for IEEE Transactions on Computers (IEEE TC)
 
 # 🎖 Honors and Awards
-- 2nd Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling).         
-  Awarded by CSIAM (China Society for Industrial and Applied Mathematics), Jun 2013.
+- **2nd Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)** (2023),         
+  Awarded by CSIAM (China Society for Industrial and Applied Mathematics).
+ 
+- **National Encouragement Scholarship** (2014),         
+  Awarded by China University of Geoscience.
+ 
+- **Outstanding Undergraduate Student Honor** (2015),    
+  Awarded by China University of Geoscience.
 
-- National Encouragement Scholarship.
-  Awarded by China University of Geoscience, June 2014.
-
-- Outstanding Undergraduate Student Honor.
-  Awarded by China University of Geoscience, June 2015.
-
-- 1st Prize, Science and Technology Paper Seminar.   
-  Awarded by China University of Geoscience, June 2017.
+- **1st Prize, Science and Technology Paper Seminar** (2017),      
+  Awarded by China University of Geoscience.
 
 
