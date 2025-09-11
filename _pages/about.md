@@ -25,8 +25,8 @@ My research interests mainly focus on Pervasive Learning and Intelligence Edge A
 # 🔥 News
 - *2025.08*: [Conference] Serve as Reviewer for ICLR 2026.
 - *2025.08*: [Conference] Serve as Reviewer for AAAI 2026.
-- *2025.07*: [Grant] &nbsp;🎉🎉 One research project has been awarded under the NSFC’s Key Programme. 
-- *2025.07*: [Grant] &nbsp;🎉🎉 One General Research Fund (GRF) has been granted by Research Grants Council (RGC) of Hong Kong; Gratefulness!
+- *2025.07*: [<font color=red>Grant</font>] &nbsp;🎉🎉 One research project has been awarded under the NSFC’s Key Programme. 
+- *2025.07*: [<font color=red>Grant</font>] &nbsp;🎉🎉 One General Research Fund (GRF) has been granted by Research Grants Council (RGC) of Hong Kong; Gratefulness!
 
   
 # 💰 Grants
@@ -34,7 +34,7 @@ My research interests mainly focus on Pervasive Learning and Intelligence Edge A
 Project title: Evolving Edge Foundation Models via Adaptive Knowledge Editing in Diverse Environments  
 Funding source: Research Grants Council of Hong Kong, 2025-2028
 
-- **[PI]**: **NSFC’s Key Programme**  
+- **<font color=red>[PI]</font>**: **NSFC’s Key Programme**  
 Project title: “面向多模态联邦学习多层异质性问题的软硬件协同优化关键技术研究”  
 Funding source: National Natural Science Foundation of China, 2026-2028
 
