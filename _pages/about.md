@@ -134,7 +134,7 @@ Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)
 
 ## *--2023--*
 - **<font color=red>[NeurIPS]</font>**  [SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models](https://openreview.net/pdf?id=EhdNQiOWgQ)      
-X. Ma, **J. Zhang<sup>#</sup>**, S. Guo, W. Xu     
+X. Ma, **J. Zhang<sup>#</sup>**, S. Guo, W. Xu          
 Advances in Neural Information Processing Systems (NeurIPS), 2023.  (CCF-A)     
 
 - **<font color=red>[ICML]</font>**  [Towards Unbiased Training in Federated Open-world Semi-supervised Learning](https://proceedings.mlr.press/v202/zhang23af/zhang23af.pdf)    
@@ -152,13 +152,13 @@ IEEE Transactions on Computers (TC), 2023. (CCF-A).
 IEEE Transactions on Parallel and Distributed Systems (TPDS) 33 (12), 4006-4018, 2022. (CCF-A)   
 
 - **<font color=red>[CVPR]</font>** [Layer-wised Model Aggregation for Personalized Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Layer-Wised_Model_Aggregation_for_Personalized_Federated_Learning_CVPR_2022_paper.pdf)     
-**X. Ma<sup>*</sup>**, **J. Zhang<sup>*</sup>**, S. Guo, W. Xu   
+**X. Ma<sup>*</sup>**, **J. Zhang<sup>*</sup>**, S. Guo, W. Xu     
 Proceedings of the IEEE/CVF conference on computer vision and pattern (CVPR), 2022. (CCF-A)  
 
 ## *--2021--*
 - **<font color=red>[NeurIPS]</font>** [Parameterized Knowledge Transfer for Personalized Federated Learning
 ](https://proceedings.neurips.cc/paper_files/paper/2021/file/5383c7318a3158b9bc261d0b6996f7c2-Paper.pdf)   
-**J. Zhang**, S. Guo, X. Ma, H. Wang, W. Xu, F. Wu
+**J. Zhang**, S. Guo, X. Ma, H. Wang, W. Xu, F. Wu    
 Advances in Neural Information Processing Systems (NeurIPS) 34, 10092-10104, 2021. (CCF-A)
 
 - **<font color=Aqua>[TC]</font>** [Adaptive Federated Learning on Non-IID Data With Resource Constraint](https://ieeexplore.ieee.org/document/9496155)    
@@ -172,17 +172,36 @@ ACM Computing Surveys (CSUR) 54 (7), 1-36, 2021. (CCF-B)
 
 More publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=JRCNlI8AAAAJ)
 
+# 👩‍💻 Teachings
+**As Instructor**
+- COMP 1021 - Introduction to Computer Science, HKUST, Spring 2025.
+- COMP 1021 - Introduction to Computer Science, HKUST, Fall 2025.
+
+**As Teaching Assistant**
+- Programming Fundamentals, PolyU, Spring 2019, Autumn 2019.
+- Big Data Analytics, PolyU, Spring 2020, Spring 2021.
+- Big Data Computing, PolyU, Autumn 2020, Autumn 2021.
+
+# 👔 Services
+**PC Member / Journal Reviewer**
+- Reviewer for The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+- Reviewer for Conference on Neural Information Processing Systems (NeurIPS)
+- Reviewer for The International Conference on Machine Learning (ICML)
+- Reviewer for IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)
+- Reviewer for IEEE Transactions on Mobile Computing (IEEE TMC)
+- Reviewer for IEEE Transactions on Computers (IEEE TC)
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2nd Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling).
+  Awarded by CSIAM (China Society for Industrial and Applied Mathematics), Jun 2013.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- National Encouragement Scholarship.
+  Awarded by China University of Geoscience, June 2014.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Outstanding Undergraduate Student Honor.
+  Awarded by China University of Geoscience, June 2015.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 1st Prize, Science and Technology Paper Seminar.   
+  Awarded by China University of Geoscience, June 2017.
+
+
