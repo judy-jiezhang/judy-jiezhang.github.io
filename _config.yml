@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jie ZHANG (张婕)"
+title                    : "Jie ZHANG (张婕), Ph.D."
 description              : "Jie ZHANG's HomePage "
 repository               : "judy-jiezhang/judy-jiezhang.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jie ZHANG (张婕)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Dr. Jie ZHANG"
-  location         : "Hong Kong, China"
+  bio              : "Research Assistant Professor"
+  location         : "Clear Water Bay, Kowloon, Hong Kong S.A.R."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JRCNlI8AAAAJ"
