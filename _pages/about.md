@@ -44,39 +44,55 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 
 ## *--2025--*
 
-- **<font color=red>[Arxiv]</font>** [CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs](https://arxiv.org/pdf/2507.06087)  
+- **<font color=blue>[Arxiv]</font>** [CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs](https://arxiv.org/pdf/2507.06087)  
 Haoxi Li, Sikai Bai, **Jie Zhang<sup>#</sup>**, Song Guo.   
 arXiv preprint arXiv:2507.06087.
 
-- **<font color=red>[Arxiv]</font>** [Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models](https://arxiv.org/abs/2507.02663)  
-Yongjiang Liu, Haoxi Li, Xiaosong Ma, **Jie Zhang<sup>#</sup>**, Song Guo
+- **<font color=blue>[Arxiv]</font>** [Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models](https://arxiv.org/abs/2507.02663)  
+Yongjiang Liu, Haoxi Li, Xiaosong Ma, **Jie Zhang<sup>#</sup>**, Song Guo   
 arXiv preprint arXiv:2507.02663.
 
-- **<font color=red>[Arxiv]</font>** [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)  
-Haoyue Zhang, Hualei Zhang, Xiaosong Ma, **Jie Zhang<sup>#</sup>**, Song Guo
+- **<font color=blue>[Arxiv]</font>** [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)  
+Haoyue Zhang, Hualei Zhang, Xiaosong Ma, **Jie Zhang<sup>#</sup>**, Song Guo   
 arXiv preprint arXiv:2506.15969.
 
-- **<font color=red>[Arxiv]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
-Haoyue Zhang, **Jie Zhang<sup>#</sup>**, Song Guo
+- **<font color=blue>[Arxiv]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
+Haoyue Zhang, **Jie Zhang<sup>#</sup>**, Song Guo  
 arXiv preprint arXiv:2507.16260.
 
+- **<font color=red>[ICCV]</font>** [VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting](https://arxiv.org/abs/2412.02503)  
+Hao Chen, Han Tao, Guo Song, **Jie Zhang**, Yunlong Yu, Yonghan Dong, Lei Bai    
+International Conference on Computer Vision (ICCV), 2025. (CCF-A)  
+
 - **<font color=red>[ACM-MM]</font>** [BoxSeg: Quality-Aware and Peer-Assisted Learning for Box-supervised Instance Segmentation](https://arxiv.org/abs/2504.05137)  
-Jinxiang Lai, Wenlong Wu, Jiawei Zhan, Jian Li, Bin-Bin Gao, Jun Liu, **Jie Zhang**, Song Guo
+Jinxiang Lai, Wenlong Wu, Jiawei Zhan, Jian Li, Bin-Bin Gao, Jun Liu, **Jie Zhang**, Song Guo  
 ACM International Conference on Multimedia (ACM-MM), 2025. (CCF-A)
+
+- **<font color=purple>[TNNLS]</font>** [Feature correlation-guided knowledge transfer for federated self-supervised learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10908709)    
+Yi Liu, Song Guo, **Jie Zhang<sup>#</sup>**, Yufeng Zhan, Qihua Zhou, Yingchun Wang   
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025. (CCF-B)   
+
+- **<font color=red>[ICLR]</font>**  [Causally Motivated Sycophancy Mitigation for Large Language Models](https://openreview.net/forum?id=yRKelogz5i)     
+Haoxi Li, Xueyang Tang, **Jie Zhang<sup>#</sup>**, Song Guo, Sikai Bai, Peiran Dong, Yue Yu    
+The Thirteenth International Conference on Learning Representations (ICLR), 2025. (CCF-A).
+
+- **<font color=red>[ICLR]</font>**  [Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View](https://openreview.net/forum?id=u8VOQVzduP)     
+Xuan Liu, **Jie Zhang<sup>#</sup>**, HaoYang Shang, Song Guo, Yang Chengxu, Quanyan Zhu     
+The Thirteenth International Conference on Learning Representations (ICLR), 2025. (CCF-A).
 
 ## *--2024--*
 
 - **<font color=red>[ICML]</font>**  [Easing Concept Bleeding in Diffusion via Entity Localization and Anchoring](https://openreview.net/forum?id=MsnJl6JkZS)   
-Jiewei Zhang, Song Guo, Peiran Dong, **Jie Zhang**, Ziming Liu, Yue Yu, and Xiaoming Wu. 
-International Conference on Machine Learning (ICML'24), 2024. (CCF-A).
+Jiewei Zhang, Song Guo, Peiran Dong, **Jie Zhang**, Ziming Liu, Yue Yu, and Xiaoming Wu.   
+International Conference on Machine Learning (ICML), 2024. (CCF-A).
 
 - **<font color=red>[ICML]</font>**  [Causally Motivated Personalized Federated Invariant Learning with Shortcut-Averse Information-Theoretic Regularization](https://openreview.net/forum?id=Kbd9A4lVoX))  
-Xueyang Tang, Song Guo, Jingcai Guo, **Jie Zhang<sup>#</sup>** and Yue Yu.   
-International Conference on Machine Learning (ICML'24), 2024. (CCF-A).
+Xueyang Tang, Song Guo, Jingcai Guo, **Jie Zhang<sup>#</sup>** and Yue Yu.     
+International Conference on Machine Learning (ICML), 2024. (CCF-A).
 
 - **<font color=red>[ICML]</font>**  [Amend to Alignment: Decoupled Prompt Tuning for Mitigating Spurious Correlation in Vision-Language Models](https://openreview.net/forum?id=f8G2KSCSdp)   
-**Jie Zhang**, Xiaosong Ma, Song Guo, Peng Li, Wenchao Xu, Xueyang Tang and Zicong Hong.  
-International Conference on Machine Learning (ICML'24), 2024. (CCF-A).  
+**Jie Zhang**, Xiaosong Ma, Song Guo, Peng Li, Wenchao Xu, Xueyang Tang and Zicong Hong.    
+International Conference on Machine Learning (ICML), 2024. (CCF-A).  
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
