@@ -170,6 +170,8 @@ IEEE Transactions on Computers (TC) 71 (7), 1655-1667, 2021. (CCF-A)
 **J. Zhang**, Z. Qu, C. Chen, H. Wang, Y. Zhan, B. Ye, S. Guo    
 ACM Computing Surveys (CSUR) 54 (7), 1-36, 2021. (CCF-B)
 
+More publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=JRCNlI8AAAAJ)
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
