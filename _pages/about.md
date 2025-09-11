@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, 👋 I'm Jie ZHANG, currently a Research Assistant Professor in the Department of Computer Science and Engineering (<a href='https://cse.hkust.edu.hk/'><strong><span id='cse'>CSE</span></strong></a>) at <a href='https://hkust.edu.hk/'><strong><span id='hkust'>The Hong Kong University of Science and Technology (HKUST)</span></strong></a>, Hong Kong SAR, China. I obtained my Ph.D. degree from the Department of Computing (<a href='https://www.polyu.edu.hk/comp/'><strong><span id='comp'>COMP</span></strong></a>) at <a href='https://www.polyu.edu.hk/'><strong><span id='polyu'>The Hong Kong Polytechnic University (PolyU)</span></strong></a> in 2022, under the supervision of <a href='https://cse.hkust.edu.hk/~songguo/'><strong><span id='guo'>Prof. Song Guo</span></strong></a>, Fellow of IEEE. Prior to that, I obtained my B.E. and M.E. degree from China University of Geosciences, Wuhan, China.
 
-My research interests mainly focus on <font color=#FF000> Pervasive Learning and Intelligence</font> Edge AI, Big Data and Distributed Machine Learning, Privacy-Preserving Computing, and Distributed Systems. Her vision is to develop edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects. I has published multiple top-tier international journal and conference papers, including NeurIPS, AAAI, ICML, ICLR, CVPR, IEEE TC, IEEE TPDS, IEEE TMC, etc.
+My research interests mainly focus on Pervasive Learning and Intelligence Edge AI, Big Data and Distributed Machine Learning, Privacy-Preserving Computing, and Distributed Systems. Her vision is to develop edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects. I has published multiple top-tier international journal and conference papers, including NeurIPS, AAAI, ICML, ICLR, CVPR, IEEE TC, IEEE TPDS, IEEE TMC, etc.
 
 
 # 🔥 News
@@ -27,6 +27,16 @@ My research interests mainly focus on <font color=#FF000> Pervasive Learning and
 - *2025.08*: [Conference] Serve as Reviewer for AAAI 2026.
 - *2025.07*: [Grant] &nbsp;🎉🎉 One research project has been awarded under the NSFC’s Key Programme. 
 - *2025.07*: [Grant] &nbsp;🎉🎉 One General Research Fund (GRF) has been granted by Research Grants Council (RGC) of Hong Kong; Gratefulness!
+
+  
+# 💰 Grants
+- **<font color=red>[PI]</font>**: **RGC General Research Fund (GRF)**  
+Project title: Evolving Edge Foundation Models via Adaptive Knowledge Editing in Diverse Environments  
+Funding source: Research Grants Council of Hong Kong, 2025-2028
+
+- **[PI]**: **NSFC’s Key Programme**  
+Project title: “面向多模态联邦学习多层异质性问题的软硬件协同优化关键技术研究”  
+Funding source: National Natural Science Foundation of China, 2026-2028
 
 # 📝 Publications 
 
