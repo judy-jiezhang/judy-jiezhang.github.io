@@ -125,7 +125,50 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
 - **<font color=red>[AAAI]</font>**  [Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators](https://dl.acm.org/doi/10.1609/aaai.v38i10.28974)    
 S. Bai, S. Li, W. Zhuang, **J. Zhang<sup>#</sup>**, K. Yang, J. Hou, S. Yi, S. Zhang, J. Gao        
-Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)   
+Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)
+
+- **<font color=red>[AAAI]</font>**  [On the Robustness of Neural-Enhanced Video Streaming against Adversarial Attacks
+](https://ojs.aaai.org/index.php/AAAI/article/view/29657)      
+Q. Zhou, J. Guo, S. Guo, R. Li, **J. Zhang**, B. Wang, Z. Xu    
+Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)
+
+## *--2023--*
+- **<font color=red>[NeurIPS]</font>**  [SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models](https://openreview.net/pdf?id=EhdNQiOWgQ)      
+X. Ma, **J. Zhang<sup>#</sup>**, S. Guo, W. Xu     
+Advances in Neural Information Processing Systems (NeurIPS), 2023.  (CCF-A)     
+
+- **<font color=red>[ICML]</font>**  [Towards Unbiased Training in Federated Open-world Semi-supervised Learning](https://proceedings.mlr.press/v202/zhang23af/zhang23af.pdf)    
+**J. Zhang**, X. Ma, S. Guo, W. Xu    
+International Conference on Machine Learning (ICML), 2023. (CCF-A).
+
+- **<font color=Aqua>[TC]</font>** [Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115052)   
+**J. Zhang**, S. Guo, J. Guo, D. Zeng, J. Zhou, A. Zomaya   
+IEEE Transactions on Computers (TC), 2023. (CCF-A).
+
+## *--2022--*
+- **<font color=Aqua>[TPDS]</font>** [Adaptive Vertical Federated Learning on Unbalanced Features
+](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9783035)    
+**J. Zhang**, S. Guo, Z. Qu, D. Zeng, H. Wang, Q. Liu, AY. Zomaya    
+IEEE Transactions on Parallel and Distributed Systems (TPDS) 33 (12), 4006-4018, 2022. (CCF-A)   
+
+- **<font color=red>[CVPR]</font>** [Layer-wised Model Aggregation for Personalized Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Layer-Wised_Model_Aggregation_for_Personalized_Federated_Learning_CVPR_2022_paper.pdf)     
+**X. Ma<sup>*</sup>**, **J. Zhang<sup>*</sup>**, S. Guo, W. Xu   
+Proceedings of the IEEE/CVF conference on computer vision and pattern (CVPR), 2022. (CCF-A)  
+
+## *--2021--*
+- **<font color=red>[NeurIPS]</font>** [Parameterized Knowledge Transfer for Personalized Federated Learning
+](https://proceedings.neurips.cc/paper_files/paper/2021/file/5383c7318a3158b9bc261d0b6996f7c2-Paper.pdf)   
+**J. Zhang**, S. Guo, X. Ma, H. Wang, W. Xu, F. Wu
+Advances in Neural Information Processing Systems (NeurIPS) 34, 10092-10104, 2021. (CCF-A)
+
+- **<font color=Aqua>[TC]</font>** [Adaptive Federated Learning on Non-IID Data With Resource Constraint](https://ieeexplore.ieee.org/document/9496155)    
+**J. Zhang**, S. Guo, Z. Qu, D. Zeng, Y. Zhan, Q. Liu, R. Akerkar   
+IEEE Transactions on Computers (TC) 71 (7), 1655-1667, 2021. (CCF-A)
+
+- **<font color=Aqua>[TC]</font>** [Edge Learning: The Enabling Technology for Distributed Big Data Analytics in the Edge
+](https://dl.acm.org/doi/10.1145/3464419)   
+**J. Zhang**, Z. Qu, C. Chen, H. Wang, Y. Zhan, B. Ye, S. Guo    
+ACM Computing Surveys (CSUR) 54 (7), 1-36, 2021. (CCF-B)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
