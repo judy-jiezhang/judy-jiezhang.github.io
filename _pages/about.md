@@ -45,8 +45,24 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 ## *--2025--*
 
 - **<font color=red>[Arxiv]</font>** [CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs](https://arxiv.org/pdf/2507.06087)  
-Haoxi Li, Sikai Bai, **Jie Zhangn<sup>#</sup>**, Song Guo.   
+Haoxi Li, Sikai Bai, **Jie Zhang<sup>#</sup>**, Song Guo.   
 arXiv preprint arXiv:2507.06087.
+
+- **<font color=red>[Arxiv]</font>** [Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models](https://arxiv.org/abs/2507.02663)  
+Yongjiang Liu, Haoxi Li, Xiaosong Ma, **Jie Zhang<sup>#</sup>**, Song Guo
+arXiv preprint arXiv:2507.02663.
+
+- **<font color=red>[Arxiv]</font>** [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)  
+Haoyue Zhang, Hualei Zhang, Xiaosong Ma, **Jie Zhang<sup>#</sup>**, Song Guo
+arXiv preprint arXiv:2506.15969.
+
+- **<font color=red>[Arxiv]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
+Haoyue Zhang, **Jie Zhang<sup>#</sup>**, Song Guo
+arXiv preprint arXiv:2507.16260.
+
+- **<font color=red>[ACM-MM]</font>** [BoxSeg: Quality-Aware and Peer-Assisted Learning for Box-supervised Instance Segmentation](https://arxiv.org/abs/2504.05137)  
+Jinxiang Lai, Wenlong Wu, Jiawei Zhan, Jian Li, Bin-Bin Gao, Jun Liu, **Jie Zhang**, Song Guo
+ACM International Conference on Multimedia (ACM-MM), 2025. (CCF-A)
 
 ## *--2024--*
 
