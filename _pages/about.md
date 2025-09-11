@@ -38,8 +38,11 @@ Funding source: Research Grants Council of Hong Kong, 2025-2028
 Project title: “面向多模态联邦学习多层异质性问题的软硬件协同优化关键技术研究”  
 Funding source: National Natural Science Foundation of China, 2026-2028
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
+## <font color=red>#-: Corresponding Author(s)</font>
+
+## *--2025--*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
