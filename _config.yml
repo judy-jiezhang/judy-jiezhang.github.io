@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jie ZHANG (张婕), Ph.D."
-description              : "Jie ZHANG's HomePage "
+description              : "Department of Computer Science and Engineering"
 repository               : "judy-jiezhang/judy-jiezhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Jie ZHANG (张婕)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Research Assistant Professor"
-  location         : "Clear Water Bay, Kowloon, Hong Kong S.A.R."
-  employer         :
+  location         : "Kowloon, Hong Kong S.A.R."
+  employer         : "The Hong Kong University of Science and Technology (HKUST)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JRCNlI8AAAAJ"
   email            : "csejzhang@ust.hk"
