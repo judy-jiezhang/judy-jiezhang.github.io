@@ -103,15 +103,15 @@ Advances in Neural Information Processing Systems 37, 12708-12738 (NeurIPS), 202
 Y. Wang, J. Guo, S. Guo, Y. Liu, **J. Zhang**, W. Zhang   
 ACM International Conference on Multimedia (ACM-MM), 2024. (CCF-A)
 
-- **<font color=Aqua>[TC]</font>** [Collaborative Neural Architecture Search for Personalized Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10713262)   
+- **<font color=Teal>[TC]</font>** [Collaborative Neural Architecture Search for Personalized Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10713262)   
 Y. Liu, S. Guo, **J. Zhang<sup>#</sup>**, Z. Hong, Y. Zhan, Q. Zhou    
 IEEE Transactions on Computers (TC), 2024. (CCF-A)
 
-- **<font color=Aqua>[TMC]</font>** [Model Decomposition and Reassembly for Purified Knowledge Transfer in Personalized Federated Learning](https://ieeexplore.ieee.org/abstract/document/10689471)     
+- **<font color=Teal>[TMC]</font>** [Model Decomposition and Reassembly for Purified Knowledge Transfer in Personalized Federated Learning](https://ieeexplore.ieee.org/abstract/document/10689471)     
 **J. Zhang**, S. Guo, X. Ma, W. Xu, Q. Zhou, J. Guo, Z. Hong, S. Jun.    
 IEEE Transactions on Mobile Computing (TMC), 2024. (CCF-A).
 
-- **<font color=Aqua>[INFOCOM]</font>** [Otas: An Elastic Transformer Serving System via Token Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10621087)   
+- **<font color=Teal>[INFOCOM]</font>** [Otas: An Elastic Transformer Serving System via Token Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10621087)   
 J. Chen, W. Xu, Z. Hong, S. Guo, H. Wang, **J. Zhang**, D. Zeng    
 IEEE INFOCOM 2024-IEEE Conference on Computer Communications (INFOCOM), 2024. (CCF-A)
 
@@ -141,12 +141,12 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023.  (CCF-A)
 **J. Zhang**, X. Ma, S. Guo, W. Xu    
 International Conference on Machine Learning (ICML), 2023. (CCF-A).
 
-- **<font color=Aqua>[TC]</font>** [Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115052)   
+- **<font color=Teal>[TC]</font>** [Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10115052)   
 **J. Zhang**, S. Guo, J. Guo, D. Zeng, J. Zhou, A. Zomaya   
 IEEE Transactions on Computers (TC), 2023. (CCF-A).
 
 ## *--2022--*
-- **<font color=Aqua>[TPDS]</font>** [Adaptive Vertical Federated Learning on Unbalanced Features
+- **<font color=Teal>[TPDS]</font>** [Adaptive Vertical Federated Learning on Unbalanced Features
 ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9783035)    
 **J. Zhang**, S. Guo, Z. Qu, D. Zeng, H. Wang, Q. Liu, AY. Zomaya    
 IEEE Transactions on Parallel and Distributed Systems (TPDS) 33 (12), 4006-4018, 2022. (CCF-A)   
@@ -161,11 +161,11 @@ Proceedings of the IEEE/CVF conference on computer vision and pattern (CVPR), 20
 **J. Zhang**, S. Guo, X. Ma, H. Wang, W. Xu, F. Wu    
 Advances in Neural Information Processing Systems (NeurIPS) 34, 10092-10104, 2021. (CCF-A)
 
-- **<font color=Aqua>[TC]</font>** [Adaptive Federated Learning on Non-IID Data With Resource Constraint](https://ieeexplore.ieee.org/document/9496155)    
+- **<font color=Teal>[TC]</font>** [Adaptive Federated Learning on Non-IID Data With Resource Constraint](https://ieeexplore.ieee.org/document/9496155)    
 **J. Zhang**, S. Guo, Z. Qu, D. Zeng, Y. Zhan, Q. Liu, R. Akerkar   
 IEEE Transactions on Computers (TC) 71 (7), 1655-1667, 2021. (CCF-A)
 
-- **<font color=Aqua>[TC]</font>** [Edge Learning: The Enabling Technology for Distributed Big Data Analytics in the Edge
+- **<font color=Purple>[TC]</font>** [Edge Learning: The Enabling Technology for Distributed Big Data Analytics in the Edge
 ](https://dl.acm.org/doi/10.1145/3464419)   
 **J. Zhang**, Z. Qu, C. Chen, H. Wang, Y. Zhan, B. Ye, S. Guo    
 ACM Computing Surveys (CSUR) 54 (7), 1-36, 2021. (CCF-B)
