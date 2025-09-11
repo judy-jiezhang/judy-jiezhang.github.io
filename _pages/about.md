@@ -45,22 +45,22 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 ## *--2025--*
 
 - **<font color=red>[Arxiv]</font>** [CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs](https://arxiv.org/pdf/2507.06087)  
-Haoxi Li, Sikai Bai, **Jie Zhangn<sup>#</sup>**, Song Guo  
+Haoxi Li, Sikai Bai, **Jie Zhangn<sup>#</sup>**, Song Guo.   
 arXiv preprint arXiv:2507.06087.
 
 ## *--2024--*
 
-- **<font color=red>[ICML]</font>**  [Easing Concept Bleeding in Diffusion via Entity Localization and Anchoring](https://openreview.net/forum?id=MsnJl6JkZS)  
-Jiewei Zhang, Song Guo, Peiran Dong, **Jie Zhang**, Ziming Liu, Yue Yu, and Xiaoming Wu.
+- **<font color=red>[ICML]</font>**  [Easing Concept Bleeding in Diffusion via Entity Localization and Anchoring](https://openreview.net/forum?id=MsnJl6JkZS)   
+Jiewei Zhang, Song Guo, Peiran Dong, **Jie Zhang**, Ziming Liu, Yue Yu, and Xiaoming Wu. 
 International Conference on Machine Learning (ICML'24), 2024. (CCF-A).
 
-- **<font color=red>[ICML]</font>**  [Causally Motivated Personalized Federated Invariant Learning with Shortcut-Averse Information-Theoretic Regularization](https://openreview.net/forum?id=Kbd9A4lVoX))
-Xueyang Tang, Song Guo, Jingcai Guo, **Jie Zhang<sup>#</sup>** and Yue Yu.
+- **<font color=red>[ICML]</font>**  [Causally Motivated Personalized Federated Invariant Learning with Shortcut-Averse Information-Theoretic Regularization](https://openreview.net/forum?id=Kbd9A4lVoX))  
+Xueyang Tang, Song Guo, Jingcai Guo, **Jie Zhang<sup>#</sup>** and Yue Yu.   
 International Conference on Machine Learning (ICML'24), 2024. (CCF-A).
 
-- **<font color=red>[ICML]</font>**  [Amend to Alignment: Decoupled Prompt Tuning for Mitigating Spurious Correlation in Vision-Language Models](https://openreview.net/forum?id=f8G2KSCSdp)
-**Jie Zhang**, Xiaosong Ma, Song Guo, Peng Li, Wenchao Xu, Xueyang Tang and Zicong Hong.
-International Conference on Machine Learning (ICML'24), 2024. (CCF-A).
+- **<font color=red>[ICML]</font>**  [Amend to Alignment: Decoupled Prompt Tuning for Mitigating Spurious Correlation in Vision-Language Models](https://openreview.net/forum?id=f8G2KSCSdp)   
+**Jie Zhang**, Xiaosong Ma, Song Guo, Peng Li, Wenchao Xu, Xueyang Tang and Zicong Hong.  
+International Conference on Machine Learning (ICML'24), 2024. (CCF-A).  
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
