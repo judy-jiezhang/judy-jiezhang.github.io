@@ -111,11 +111,21 @@ IEEE Transactions on Computers (TC), 2024. (CCF-A)
 **J. Zhang**, S. Guo, X. Ma, W. Xu, Q. Zhou, J. Guo, Z. Hong, S. Jun.    
 IEEE Transactions on Mobile Computing (TMC), 2024. (CCF-A).
 
-- **<font color=Aqua>[INFOCOM]</font>** [Otas: An elastic transformer serving system via token adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10621087)   
+- **<font color=Aqua>[INFOCOM]</font>** [Otas: An Elastic Transformer Serving System via Token Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10621087)   
 J. Chen, W. Xu, Z. Hong, S. Guo, H. Wang, **J. Zhang**, D. Zeng    
 IEEE INFOCOM 2024-IEEE Conference on Computer Communications (INFOCOM), 2024. (CCF-A)
 
+- **<font color=red>[ICLR]</font>**  [Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients](https://openreview.net/forum?id=8FHWkY0SwF)    
+X. Tang, S. Guo, **J. Zhang<sup>#</sup>**, J. Guo   
+The Twelfth International Conference on Learning Representations (ICLR), 2024. (CCF-A)  
 
+- **<font color=red>[CVPR]</font>**  [DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_DiPrompT_Disentangled_Prompt_Tuning_for_Multiple_Latent_Domain_Generalization_in_CVPR_2024_paper.pdf)    
+**S. Bai<sup>*</sup>**, **J. Zhang<sup>*</sup>**, S. Guo, S. Li, J. Guo, J. Hou, T. Han, X. Lu    
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
+
+- **<font color=red>[AAAI]</font>**  [Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators](https://dl.acm.org/doi/10.1609/aaai.v38i10.28974)    
+S. Bai, S. Li, W. Zhuang, **J. Zhang<sup>#</sup>**, K. Yang, J. Hou, S. Yi, S. Zhang, J. Gao        
+Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)   
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
