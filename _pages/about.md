@@ -111,7 +111,7 @@ IEEE Transactions on Computers (TC), 2024. (CCF-A)
 **J. Zhang**, S. Guo, X. Ma, W. Xu, Q. Zhou, J. Guo, Z. Hong, S. Jun.    
 IEEE Transactions on Mobile Computing (TMC), 2024. (CCF-A).
 
-- **<font color=Teal>[INFOCOM]</font>** [Otas: An Elastic Transformer Serving System via Token Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10621087)   
+- **<font color=red>[INFOCOM]</font>** [Otas: An Elastic Transformer Serving System via Token Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10621087)   
 J. Chen, W. Xu, Z. Hong, S. Guo, H. Wang, **J. Zhang**, D. Zeng    
 IEEE INFOCOM 2024-IEEE Conference on Computer Communications (INFOCOM), 2024. (CCF-A)
 
@@ -192,7 +192,7 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 - Reviewer for IEEE Transactions on Computers (IEEE TC)
 
 # 🎖 Honors and Awards
-- 2nd Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling).    
+- 2nd Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling).         
   Awarded by CSIAM (China Society for Industrial and Applied Mathematics), Jun 2013.
 
 - National Encouragement Scholarship.
