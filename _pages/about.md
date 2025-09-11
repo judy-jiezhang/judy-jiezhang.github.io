@@ -43,10 +43,12 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 ## <font color=red>#-: Corresponding Author(s)</font>
 
 ## *--2025--*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Figure3.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs](https://arxiv.org/pdf/2507.06087)  
+Haoxi Li, Sikai Bai, **Jie Zhang**, Song Guo  
+arXiv preprint arXiv:2507.06087
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
