@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, 👋 I'm Jie ZHANG, currently a Research Assistant Professor in the Department of Computer Science and Engineering (<a href='https://cse.hkust.edu.hk/'><strong><span id='cse'>CSE</span></strong></a>) at <a href='https://hkust.edu.hk/'><strong><span id='hkust'>The Hong Kong University of Science and Technology (HKUST)</span></strong></a>, Hong Kong SAR, China. I obtained my Ph.D. degree from the Department of Computing (<a href='https://www.polyu.edu.hk/comp/'><strong><span id='comp'>COMP</span></strong></a>) at <a href='https://www.polyu.edu.hk/'><strong><span id='polyu'>The Hong Kong Polytechnic University (PolyU)</span></strong></a> in 2022, under the supervision of <a href='https://cse.hkust.edu.hk/~songguo/'><strong><span id='guo'>Prof. Song Guo</span></strong></a>, Fellow of IEEE. Prior to that, I obtained my B.E. and M.E. degree from China University of Geosciences, Wuhan, China.
 
-My research interest broadly lies in the areas of edge computing, federated learning, distributed AI systems and foundation models. Some specific topics such as heterogeneous training, personalization for federated learning, and inference acceleration for pre-trained large models are highly involved.
+My research interests mainly focus on Edge AI, Big Data and Distributed Machine Learning, Privacy-Preserving Computing, and Distributed Systems. Her vision is to develop edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects. I has published multiple top-tier international journal and conference papers, including NeurIPS, AAAI, ICML, ICLR, CVPR, IEEE TC, IEEE TPDS, IEEE TMC, etc.
 
 
 # 🔥 News
