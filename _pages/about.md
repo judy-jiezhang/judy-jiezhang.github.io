@@ -17,17 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jie ZHANG is currently a Research Assistant Professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST) , Hong Kong SAR, China. She obtained her Ph.D. degree from the Department of Computing, Hong Kong Polytechnic University in 2022, under the supervision of Prof. Song Guo, Fellow of IEEE. Prior to that, she obtained her B.E. and M.E. degree from China University of Geosciences, Wuhan, China.
+Jie ZHANG is currently a Research Assistant Professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST) , Hong Kong SAR, China. She obtained her Ph.D. degree from the Department of Computing <a href='https://www.polyu.edu.hk/comp/'><strong><span id='comp'>(COMP)</span></strong></a> at <a href='https://www.polyu.edu.hk/'><strong><span id='polyu'>The Hong Kong Polytechnic University</span></strong></a> in 2022, under the supervision of Prof. Song Guo, Fellow of IEEE. Prior to that, she obtained her B.E. and M.E. degree from China University of Geosciences, Wuhan, China.
 
 My research interest broadly lies in the areas of edge computing, federated learning, distributed AI systems and foundation models. Some specific topics such as heterogeneous training, personalization for federated learning, and inference acceleration for pre-trained large models are highly involved.
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>1500+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: [Conference] Serve as Reviewer for ICLR 2026.
+- *2025.08*: [Conference] Serve as Reviewer for AAAI 2026.
+- *2025.07*: [Grant] &nbsp;🎉🎉 One research project has been awarded under the NSFC’s Key Programme. 
+- *2025.07*: [Grant] &nbsp;🎉🎉 One General Research Fund (GRF) has been granted by Research Grants Council (RGC) of Hong Kong; Gratefulness!
 
 # 📝 Publications 
 
