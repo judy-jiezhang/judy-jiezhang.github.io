@@ -60,6 +60,10 @@ arXiv preprint arXiv:2506.15969.
 H. Zhang, **J. Zhang<sup>#</sup>**, S. Guo  
 arXiv preprint arXiv:2507.16260.
 
+- **<font color=red>[NeurIPS]</font>** [DiEP: Adaptive Mixture-of-Experts Compression through Differentiable Expert Pruning](https://arxiv.org/abs/2509.16105)  
+S. Bai, **J. Zhang<sup>#</sup>**, H. Li, Z. Hong, S. Guo  
+The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A) 
+
 - **<font color=red>[ICCV]</font>** [VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting](https://arxiv.org/abs/2412.02503)  
 H. Chen, T. Han, S. Guo, **J. Zhang**, Y. Yu, Y. Dong, L. Bai    
 International Conference on Computer Vision (ICCV), 2025. (CCF-A)  
