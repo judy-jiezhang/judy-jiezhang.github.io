@@ -42,6 +42,12 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 
 <font color=red>#: Corresponding Author(s), *: equal contribution (co-first authors)</font>
 
+## *--2026--*
+
+- **<font color=red>[CVPR]</font>**  [STCast: Adaptive Boundary Alignment for Global and Regional Weather Forecasting](https://arxiv.org/pdf/2509.25210)
+H. Chen, T. Han, **J. Zhang<sup>#</sup>**, S. Guo, L. Bai    
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+
 ## *--2025--*
 
 - **<font color=blue>[Arxiv]</font>** [CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs](https://arxiv.org/pdf/2507.06087)  
