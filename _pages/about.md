@@ -23,6 +23,7 @@ My research interests mainly focus on ***<font color=red>Pervasive Learning and 
 
 
 # 🔥 News
+- *2026.04*: [Conference] Three papers are accepted for ACL 2026.
 - *2025.08*: [Conference] Serve as Reviewer for ICLR 2026.
 - *2025.08*: [Conference] Serve as Reviewer for AAAI 2026.
 - *2025.07*: [<font color=red>Grant</font>] &nbsp;🎉🎉 One research project has been awarded under the NSFC’s Key Programme. 
