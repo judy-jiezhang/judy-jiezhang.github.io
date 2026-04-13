@@ -45,7 +45,7 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 
 ## *--2026--*
 
-- **<font color=purple>[TNNLS]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
+- **<font color=Purple>[TNNLS]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
 H. Zhang, **J. Zhang<sup>#</sup>**, C. Hu, S. Guo  
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025. (CCF-B)   
 
