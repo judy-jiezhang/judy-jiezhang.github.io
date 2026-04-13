@@ -49,17 +49,17 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 H. Chen, T. Han, **J. Zhang<sup>#</sup>**, S. Guo, L. Bai    
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
 
-- **<font color=blue>[ACL]</font>** [Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models](https://arxiv.org/abs/2507.02663)  
+- **<font color=red>[ACL]</font>** [Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models](https://arxiv.org/abs/2507.02663)  
 Y. Liu, H. Li, X. Ma, **J. Zhang<sup>#</sup>**, S. Guo   
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL, Long Papers), 2026. (CCF-A)
 
-- **<font color=blue>[ACL]</font>** [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)  
+- **<font color=red>[ACL]</font>** [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)  
 H. Zhang, H. Zhang, X. Ma, **J. Zhang<sup>#</sup>**, S. Guo   
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL, Long Papers), 2026. (CCF-A)
 
-- **<font color=blue>[ACL]</font>** [TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis]()  
+- **<font color=red>[ACL]</font>** [TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis]()  
 S. Bai, H. Li, **J. Zhang<sup>#</sup>**, Y. Liu, S. Guo   
-Findings of the Association for Computational Linguistics (ACL), 2026. (CCF-A)
+Findings of the Association for Computational Linguistics (ACL), 2026.
 
 ## *--2025--*
 
