@@ -45,9 +45,9 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 
 ## *--2026--*
 
-- **<font color=blue>[Arxiv]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
+- **<font color=blue>[TNNLS]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
 H. Zhang, **J. Zhang<sup>#</sup>**, C. Hu, S. Guo  
-arXiv preprint arXiv:2507.16260.
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS). 
 
 - **<font color=red>[ACL]</font>** [Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models](https://arxiv.org/abs/2507.02663)  
 Y. Liu, H. Li, X. Ma, **J. Zhang<sup>#</sup>**, S. Guo   
