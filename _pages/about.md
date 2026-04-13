@@ -45,9 +45,9 @@ Funding source: National Natural Science Foundation of China, 2026-2028
 
 ## *--2026--*
 
-- **<font color=red>[CVPR]</font>**  [STCast: Adaptive Boundary Alignment for Global and Regional Weather Forecasting](https://arxiv.org/pdf/2509.25210)   
-H. Chen, T. Han, **J. Zhang<sup>#</sup>**, S. Guo, L. Bai    
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+- **<font color=blue>[Arxiv]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
+H. Zhang, **J. Zhang<sup>#</sup>**, C. Hu, S. Guo  
+arXiv preprint arXiv:2507.16260.
 
 - **<font color=red>[ACL]</font>** [Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models](https://arxiv.org/abs/2507.02663)  
 Y. Liu, H. Li, X. Ma, **J. Zhang<sup>#</sup>**, S. Guo   
@@ -61,15 +61,16 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL, L
 S. Bai, H. Li, **J. Zhang<sup>#</sup>**, Y. Liu, S. Guo   
 Findings of the Association for Computational Linguistics (ACL), 2026.
 
+- **<font color=red>[CVPR]</font>**  [STCast: Adaptive Boundary Alignment for Global and Regional Weather Forecasting](https://arxiv.org/pdf/2509.25210)   
+H. Chen, T. Han, **J. Zhang<sup>#</sup>**, S. Guo, L. Bai    
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+
+
 ## *--2025--*
 
 - **<font color=blue>[Arxiv]</font>** [CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs](https://arxiv.org/pdf/2507.06087)  
 H. Li, S. Bai, **J. Zhang<sup>#</sup>**, S. Guo.   
 arXiv preprint arXiv:2507.06087.
-
-- **<font color=blue>[Arxiv]</font>** [ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference](https://arxiv.org/abs/2507.16260)  
-H. Zhang, **J. Zhang<sup>#</sup>**, S. Guo  
-arXiv preprint arXiv:2507.16260.
 
 - **<font color=red>[NeurIPS]</font>** [DiEP: Adaptive Mixture-of-Experts Compression through Differentiable Expert Pruning](https://arxiv.org/abs/2509.16105)  
 S. Bai, **J. Zhang<sup>#</sup>**, H. Li, Z. Hong, S. Guo  
