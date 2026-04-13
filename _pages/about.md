@@ -21,7 +21,7 @@ Hi, 👋 I'm Jie ZHANG, currently a Research Assistant Professor in the Departme
 
 <!--Prior to that, I obtained my B.E. and M.E. degree from China University of Geosciences, Wuhan, China.-->
 
-My research interests mainly focus on ***<font color=red>Pervasive Learning and Intelligence</font>***, including Edge AI, Distributed Systems, Foundation Models' **Meta-cognition** (Large Reasoning Models), **Autonomy** (LLM Agents) and **Efficiency** (Inference Acceleration). My vision is to develop native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects. I have published multiple top-tier international journal and conference papers, including NeurIPS, AAAI, ICML, ICLR, CVPR, IEEE TC, IEEE TPDS, IEEE TMC, etc.
+My research interests mainly focus on ***<font color=red>Pervasive Learning and Intelligence</font>***, including Edge AI, Distributed Systems, Foundation Models' **Meta-cognition** (Large Reasoning Models), **Autonomy** (LLM Agents) and **Efficiency** (Inference Acceleration). My vision is to develop native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects. I have published multiple top-tier international journal and conference papers, including NeurIPS, ICML, ICLR, IEEE TC, IEEE TPDS, IEEE TMC, etc.
 
 
 # 🔥 News
